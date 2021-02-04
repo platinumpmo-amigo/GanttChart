@@ -64,7 +64,7 @@
             <div class="slds-col">
               <div class="slds-grid">
                 <template for:each={dates} for:item="date">
-                  <div key={date} class="slds-col lwc-timeline_month-container" style={date.style}>
+                  <div key={date.name} class="slds-col lwc-timeline_month-container" style={date.style}>
                     <div class="slds-grid">
                       <div class="slds-col slds-has-flexi-truncate">
                         <div
@@ -75,7 +75,7 @@
                     </div>
                     <div class="slds-grid">
                       <template for:each={date.days} for:item="day">
-                        <div key={day} class={day.class}>
+                        <div key={day.label} class={day.class}>
                           <div if:true={day.dayName}>{day.dayName}</div>
                           <div>{day.label}</div>
                         </div>

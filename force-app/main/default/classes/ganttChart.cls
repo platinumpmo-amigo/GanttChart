@@ -126,7 +126,8 @@ public with sharing class ganttChart {
         data.put('projects', projectById.values());
         data.put('resources', resourceById.values());
         data.put('roles', roles);
-        
+        System.debug('data size : '+data.size());
+        System.debug('values'+data.values());
         return data;
     }
 
