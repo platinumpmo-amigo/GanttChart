@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 48,
+    "serverMaxRevisionCounter": 59,
     "sourceMembers": {
         "CustomField__Allocation__c.Resource__c": {
             "serverRevisionCounter": 3,
@@ -170,8 +170,8 @@
             "isNameObsolete": false
         },
         "LightningComponentBundle__gantt_chart": {
-            "serverRevisionCounter": 18,
-            "lastRetrievedFromServer": 18,
+            "serverRevisionCounter": 49,
+            "lastRetrievedFromServer": 49,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
@@ -182,62 +182,62 @@
             "isNameObsolete": false
         },
         "LightningComponentBundle__gantt_chart_resource": {
-            "serverRevisionCounter": 29,
-            "lastRetrievedFromServer": 29,
+            "serverRevisionCounter": 55,
+            "lastRetrievedFromServer": 55,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart_resource/gantt_chart_resource.css": {
-            "serverRevisionCounter": 30,
-            "lastRetrievedFromServer": 30,
+            "serverRevisionCounter": 56,
+            "lastRetrievedFromServer": 56,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart_resource/gantt_chart_resource.js": {
-            "serverRevisionCounter": 31,
-            "lastRetrievedFromServer": 31,
+            "serverRevisionCounter": 57,
+            "lastRetrievedFromServer": 57,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart_resource/gantt_chart_resource.html": {
-            "serverRevisionCounter": 32,
-            "lastRetrievedFromServer": 32,
+            "serverRevisionCounter": 58,
+            "lastRetrievedFromServer": 58,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart_resource/gantt_chart_resource.js-meta.xml": {
-            "serverRevisionCounter": 33,
-            "lastRetrievedFromServer": 33,
+            "serverRevisionCounter": 59,
+            "lastRetrievedFromServer": 59,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart/gantt_chart.js": {
-            "serverRevisionCounter": 19,
-            "lastRetrievedFromServer": 19,
+            "serverRevisionCounter": 50,
+            "lastRetrievedFromServer": 50,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart/__tests__/gantt_chart.test.js": {
-            "serverRevisionCounter": 20,
-            "lastRetrievedFromServer": 20,
+            "serverRevisionCounter": 51,
+            "lastRetrievedFromServer": 51,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart/gantt_chart.js-meta.xml": {
-            "serverRevisionCounter": 21,
-            "lastRetrievedFromServer": 21,
+            "serverRevisionCounter": 52,
+            "lastRetrievedFromServer": 52,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart/gantt_chart.html": {
-            "serverRevisionCounter": 22,
-            "lastRetrievedFromServer": 22,
+            "serverRevisionCounter": 53,
+            "lastRetrievedFromServer": 53,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__gantt_chart/gantt_chart.css": {
-            "serverRevisionCounter": 23,
-            "lastRetrievedFromServer": 23,
+            "serverRevisionCounter": 54,
+            "lastRetrievedFromServer": 54,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
