@@ -16,16 +16,23 @@
                 </div>
             </div>
         </div>
+        <!--TODO : To be Replaced with Program Details-->
         <!-- Resource Info -->
 
         <!-- Days -->
         <div class="slds-col slds-is-relative">
             <!-- Time Slots-->
             <div class="slds-grid slds-is-absolute lwc-timeslots-container">
-                <template for:each={times} for:item="time" for:index="index">
+                <!-- ? Sourav : Preventing Open Add Project Modal-->
+                <!--<template for:each={times} for:item="time" for:index="index">
                     <div key={time.start} class={time.class} data-index={index} data-start={time.start} data-end={time.end}
                         onclick={handleTimeslotClick} ondragenter={handleDragEnter}>
-                        <!-- nothing -->
+                        
+                    </div>
+                </template>-->
+                <template for:each={times} for:item="time" for:index="index">
+                    <div key={time.start} class={time.class} data-index={index} data-start={time.start} data-end={time.end} >
+                        
                     </div>
                 </template>
             </div>
@@ -41,24 +48,29 @@
                             <!-- Allocation -->
                             <div key={allocation.Id} class={allocation.Id}>
                                 <div title={allocation.Name} class={allocation.class} style={allocation.style} data-id={allocation.Id}
-                                    data-project={projectIndex} data-allocation={allocationIndex} draggable="true"
+                                    data-project={projectIndex} data-allocation={allocationIndex} draggable="false"
                                     ondragstart={handleDragStart} ondragend={handleDragEnd}>
                                     <div class="slds-grid slds-grid_vertical-align-center">
                                         <!-- Allocation Left Handle -->
+                                        <!--<div class="slds-col slds-grow-none slds-col_bump-right lwc-allocation_handle handle_left"
+                                            draggable="false" ondragstart={handleLeftDragStart} data-id={allocation.Id}>
+                                            <lightning-icon icon-name="utility:drag_and_drop" variant="inverse" size="x-small"></lightning-icon>
+                                        </div>-->
                                         <div class="slds-col slds-grow-none slds-col_bump-right lwc-allocation_handle handle_left"
-                                            draggable="true" ondragstart={handleLeftDragStart} data-id={allocation.Id}>
+                                            draggable="false"  data-id={allocation.Id}>
                                             <lightning-icon icon-name="utility:drag_and_drop" variant="inverse" size="x-small"></lightning-icon>
                                         </div>
                                         <!-- /Allocation Left Handle -->
 
                                         <div class="slds-col slds-grow-none lwc-allocation_actions">
-                                            <lightning-button-icon icon-name="utility:down" variant="bare-inverse" size="small"
-                                                onclick={openAllocationMenu} data-id={allocation.Id}></lightning-button-icon>
+                                            <!--<lightning-button-icon icon-name="utility:down" variant="bare-inverse" size="small"
+                                                onclick={openAllocationMenu} data-id={allocation.Id}></lightning-button-icon>-->
                                         </div>
                                         <!-- Allocation Right Handle -->
-                                        <div class="slds-col slds-grow-none lwc-allocation_handle handle_right" draggable="true"
-                                            ondragstart={handleRightDragStart} data-id={allocation.Id}>
-                                            <lightning-icon icon-name="utility:drag_and_drop" variant="inverse" size="x-small"></lightning-icon>
+                                        <!--<div class="slds-col slds-grow-none lwc-allocation_handle handle_right" draggable="false"
+                                            ondragstart={handleRightDragStart} data-id={allocation.Id}>-->
+                                        <div class="slds-col slds-grow-none lwc-allocation_handle handle_right" draggable="false" data-id={allocation.Id}>
+                                            <!--<lightning-icon icon-name="utility:drag_and_drop" variant="inverse" size="x-small"></lightning-icon>-->
                                         </div>
                                         <!-- /Allocation Right Handle -->
                                     </div>
@@ -86,7 +98,8 @@
             <!-- /Allocations -->
 
             <!-- Allocation Actions-->
-            <div if:true={menuData.show} class="lwc-allocation-actions-container">
+            <!-- ? Sourav Deactivated This Block-->
+            <!--<div if:true={menuData.show} class="lwc-allocation-actions-container">
                 <div class="slds-dropdown slds-dropdown_left slds-is-absolute" style={menuData.style}>
                     <ul class="slds-dropdown__list" role="menu" aria-label="Show More">
                         <li class="slds-dropdown__item" role="presentation" onclick={handleModalEditClick} data-id={menuData.allocationId}>
@@ -101,7 +114,7 @@
                         </li>
                     </ul>
                 </div>
-            </div>
+            </div>-->
             <!-- /Allocation Actions-->
         </div>
         <!-- /Days -->
