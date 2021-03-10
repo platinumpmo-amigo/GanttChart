@@ -154,7 +154,7 @@
     "metadataType": "ApexClass",
     "size": 8774,
     "modifiedTime": 1615410595550,
-    "changeTime": 1615410595550,
+    "changeTime": 1615410626803,
     "contentHash": "0f8b17a47f560bcd2694776ff136a4f86075916f"
   },
   "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\classes\\ganttChart.cls-meta.xml": {
@@ -374,7 +374,7 @@
     "metadataType": "LightningComponentBundle",
     "size": 13057,
     "modifiedTime": 1615410595552,
-    "changeTime": 1615410595552,
+    "changeTime": 1615410647874,
     "contentHash": "adff9e06599150e4909313d18dc3967d59cf0e0b"
   },
   "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\lwc\\gantt_chart\\gantt_chart.js": {
@@ -389,7 +389,7 @@
     "metadataType": "LightningComponentBundle",
     "size": 17822,
     "modifiedTime": 1615409957534,
-    "changeTime": 1615409957534,
+    "changeTime": 1615410645874,
     "contentHash": "34f5fb108289a6d00191eeee6f4392e6a02e3d6e"
   },
   "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\lwc\\gantt_chart\\gantt_chart.js-meta.xml": {
@@ -512,18 +512,17 @@
   },
   "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\lwc\\gantt_chart_resource\\gantt_chart_resource.html": {
     "sourcePath": "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\lwc\\gantt_chart_resource\\gantt_chart_resource.html",
-    "deferContentHash": false,
+    "metadataType": "LightningComponentBundle",
     "isWorkspace": false,
-    "isArtifactRoot": false,
-    "state": "u",
     "package": "force-app",
+    "deferContentHash": true,
+    "state": "u",
     "isDirectory": false,
     "isMetadataFile": false,
-    "metadataType": "LightningComponentBundle",
-    "size": 9535,
-    "modifiedTime": 1615409957537,
-    "changeTime": 1615409957537,
-    "contentHash": "0fe735ddc46f89357d8096857b75760019b68847"
+    "size": 9384,
+    "modifiedTime": 1615411095315,
+    "changeTime": 1615411096747,
+    "contentHash": "f59efbbe3740882daa6b6f1e404b3f2140e780f9"
   },
   "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\lwc\\gantt_chart_resource\\gantt_chart_resource.js": {
     "sourcePath": "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\lwc\\gantt_chart_resource\\gantt_chart_resource.js",
@@ -537,7 +536,7 @@
     "metadataType": "LightningComponentBundle",
     "size": 17336,
     "modifiedTime": 1615410595554,
-    "changeTime": 1615410595554,
+    "changeTime": 1615410626803,
     "contentHash": "3e150d19d1bef4f3087b394c901134098fffb462"
   },
   "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\lwc\\gantt_chart_resource\\gantt_chart_resource.js-meta.xml": {
@@ -659,18 +658,17 @@
   },
   "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\objects\\Allocation__c\\fields\\Resource__c.field-meta.xml": {
     "sourcePath": "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\objects\\Allocation__c\\fields\\Resource__c.field-meta.xml",
-    "deferContentHash": false,
+    "metadataType": "CustomField",
     "isWorkspace": false,
-    "isArtifactRoot": false,
-    "state": "u",
     "package": "force-app",
+    "deferContentHash": true,
+    "state": "u",
     "isDirectory": false,
     "isMetadataFile": true,
-    "metadataType": "CustomField",
-    "size": 621,
-    "modifiedTime": 1615410595555,
-    "changeTime": 1615410595555,
-    "contentHash": "e22abcb9b6254dd042c4d425474844ae6d24c1d9"
+    "size": 575,
+    "modifiedTime": 1615410660987,
+    "changeTime": 1615410662250,
+    "contentHash": "ca05a97b35c1a61f781490df2fd5d7ad77560727"
   },
   "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\objects\\Allocation__c\\fields\\Start_Date__c.field-meta.xml": {
     "sourcePath": "C:\\Users\\soura\\OneDrive\\Documents\\GitHub\\Gantt-Chart-Demo\\GanttChart\\force-app\\main\\default\\objects\\Allocation__c\\fields\\Start_Date__c.field-meta.xml",
