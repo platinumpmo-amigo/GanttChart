@@ -6,7 +6,6 @@
     <referenceTo>Resource__c</referenceTo>
     <relationshipLabel>Allocations</relationshipLabel>
     <relationshipName>Allocations</relationshipName>
-    <relationshipOrder>1</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
     <trackTrending>false</trackTrending>
     <type>MasterDetail</type>
