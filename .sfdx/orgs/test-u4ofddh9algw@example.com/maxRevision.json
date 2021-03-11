@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 163,
+  "serverMaxRevisionCounter": 187,
   "sourceMembers": {
     "CustomField__Allocation__c.Effort__c": {
       "serverRevisionCounter": 111,
@@ -170,8 +170,8 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__gantt_chart": {
-      "serverRevisionCounter": 126,
-      "lastRetrievedFromServer": 126,
+      "serverRevisionCounter": 182,
+      "lastRetrievedFromServer": 182,
       "memberType": "LightningComponentBundle",
       "isNameObsolete": false
     },
@@ -212,32 +212,32 @@
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/gantt_chart.css": {
-      "serverRevisionCounter": 127,
-      "lastRetrievedFromServer": 127,
+      "serverRevisionCounter": 183,
+      "lastRetrievedFromServer": 183,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/gantt_chart.js": {
-      "serverRevisionCounter": 128,
-      "lastRetrievedFromServer": 128,
+      "serverRevisionCounter": 184,
+      "lastRetrievedFromServer": 184,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/gantt_chart.html": {
-      "serverRevisionCounter": 129,
-      "lastRetrievedFromServer": 129,
+      "serverRevisionCounter": 185,
+      "lastRetrievedFromServer": 185,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/gantt_chart.js-meta.xml": {
-      "serverRevisionCounter": 130,
-      "lastRetrievedFromServer": 130,
+      "serverRevisionCounter": 186,
+      "lastRetrievedFromServer": 186,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/__tests__/gantt_chart.test.js": {
-      "serverRevisionCounter": 131,
-      "lastRetrievedFromServer": 131,
+      "serverRevisionCounter": 187,
+      "lastRetrievedFromServer": 187,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
