@@ -1,5 +1,5 @@
 {
-  "serverMaxRevisionCounter": 218,
+  "serverMaxRevisionCounter": 357,
   "sourceMembers": {
     "CustomField__Allocation__c.Effort__c": {
       "serverRevisionCounter": 111,
@@ -170,8 +170,8 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__gantt_chart": {
-      "serverRevisionCounter": 188,
-      "lastRetrievedFromServer": 188,
+      "serverRevisionCounter": 352,
+      "lastRetrievedFromServer": 352,
       "memberType": "LightningComponentBundle",
       "isNameObsolete": false
     },
@@ -182,62 +182,62 @@
       "isNameObsolete": false
     },
     "LightningComponentBundle__gantt_chart_resource": {
-      "serverRevisionCounter": 214,
-      "lastRetrievedFromServer": 214,
+      "serverRevisionCounter": 347,
+      "lastRetrievedFromServer": 347,
       "memberType": "LightningComponentBundle",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart_resource/gantt_chart_resource.html": {
-      "serverRevisionCounter": 215,
-      "lastRetrievedFromServer": 215,
+      "serverRevisionCounter": 348,
+      "lastRetrievedFromServer": 348,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart_resource/gantt_chart_resource.css": {
-      "serverRevisionCounter": 216,
-      "lastRetrievedFromServer": 216,
+      "serverRevisionCounter": 349,
+      "lastRetrievedFromServer": 349,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart_resource/gantt_chart_resource.js-meta.xml": {
-      "serverRevisionCounter": 217,
-      "lastRetrievedFromServer": 217,
+      "serverRevisionCounter": 350,
+      "lastRetrievedFromServer": 350,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart_resource/gantt_chart_resource.js": {
-      "serverRevisionCounter": 218,
-      "lastRetrievedFromServer": 218,
+      "serverRevisionCounter": 351,
+      "lastRetrievedFromServer": 351,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/gantt_chart.css": {
-      "serverRevisionCounter": 189,
-      "lastRetrievedFromServer": 189,
+      "serverRevisionCounter": 353,
+      "lastRetrievedFromServer": 353,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/gantt_chart.js": {
-      "serverRevisionCounter": 190,
-      "lastRetrievedFromServer": 190,
+      "serverRevisionCounter": 354,
+      "lastRetrievedFromServer": 354,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/gantt_chart.html": {
-      "serverRevisionCounter": 191,
-      "lastRetrievedFromServer": 191,
+      "serverRevisionCounter": 355,
+      "lastRetrievedFromServer": 355,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/gantt_chart.js-meta.xml": {
-      "serverRevisionCounter": 192,
-      "lastRetrievedFromServer": 192,
+      "serverRevisionCounter": 356,
+      "lastRetrievedFromServer": 356,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },
     "LightningComponentResource__gantt_chart/__tests__/gantt_chart.test.js": {
-      "serverRevisionCounter": 193,
-      "lastRetrievedFromServer": 193,
+      "serverRevisionCounter": 357,
+      "lastRetrievedFromServer": 357,
       "memberType": "LightningComponentResource",
       "isNameObsolete": false
     },

@@ -13,7 +13,8 @@
 
 /*** Allocations ***/
 .lwc-allocation {
-    background-color: rgba(21, 137, 238);
+    /*background-color: rgba(21, 137, 238);*/
+    background-color: rgb(147, 161, 173);
     border-radius: .25rem;
     cursor: grab; 
     opacity: .85;
